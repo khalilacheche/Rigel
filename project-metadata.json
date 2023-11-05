@@ -2,7 +2,14 @@
   "title": "Rigel",
   "img_path": "https://raw.githubusercontent.com/khalilacheche/Rigel/project-metadata/rigel.png",
   "description": "An astronomy desktop app",
-  "tags": ["Software Engineering"],
-  "langs": ["Java"],
-  "frameworks":["JavaFX"]
+  "tags": [
+    "Software Engineering"
+  ],
+  "langs": [
+    "Java"
+  ],
+  "frameworks": [
+    "JavaFX"
+  ],
+  "date": "02-2020"
 }
